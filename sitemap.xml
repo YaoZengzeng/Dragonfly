@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://alibaba.github.io/Dragonfly/api_reference/api_supernode/</loc>
+  </url>
+  
+  <url>
+    <loc>https://alibaba.github.io/Dragonfly/onboarding/</loc>
+  </url>
+  
+  <url>
+    <loc>https://alibaba.github.io/Dragonfly/user_guide/install_server/</loc>
+  </url>
+  
+  <url>
+    <loc>https://alibaba.github.io/Dragonfly/overview/what_is_dragonfly/</loc>
+  </url>
+  
+  <url>
+    <loc>https://alibaba.github.io/Dragonfly/cli_reference/dfdaemon/</loc>
+  </url>
+  
+  <url>
+    <loc>https://alibaba.github.io/Dragonfly/user_guide/install_client/</loc>
+  </url>
+  
+  <url>
+    <loc>https://alibaba.github.io/Dragonfly/api_reference/api_preheat/</loc>
+  </url>
+  
+  <url>
+    <loc>https://alibaba.github.io/Dragonfly/overview/terminology/</loc>
+  </url>
+  
+  <url>
+    <loc>https://alibaba.github.io/Dragonfly/cli_reference/dfget/</loc>
+  </url>
+  
+  <url>
+    <loc>https://alibaba.github.io/Dragonfly/user_guide/download_files/</loc>
+  </url>
+  
+  <url>
+    <loc>https://alibaba.github.io/Dragonfly/overview/</loc>
+  </url>
+  
+  <url>
+    <loc>https://alibaba.github.io/Dragonfly/user_guide/supernode_configuration/</loc>
+  </url>
+  
+  <url>
+    <loc>https://alibaba.github.io/Dragonfly/quick_start/</loc>
+  </url>
+  
+  <url>
+    <loc>https://alibaba.github.io/Dragonfly/user_guide/</loc>
+  </url>
+  
+  <url>
+    <loc>https://alibaba.github.io/Dragonfly/cli_reference/</loc>
+  </url>
+  
+  <url>
+    <loc>https://alibaba.github.io/Dragonfly/api_reference/</loc>
+  </url>
+  
+  <url>
+    <loc>https://alibaba.github.io/Dragonfly/faq/</loc>
+  </url>
+  
+  <url>
+    <loc>https://alibaba.github.io/Dragonfly/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://alibaba.github.io/Dragonfly/code_of_conduct/</loc>
+  </url>
+  
+  <url>
+    <loc>https://alibaba.github.io/Dragonfly/</loc>
+  </url>
+  
+  <url>
+    <loc>https://alibaba.github.io/Dragonfly/contributing/</loc>
+  </url>
+  
+  <url>
+    <loc>https://alibaba.github.io/Dragonfly/maintainers/</loc>
+  </url>
+  
+  <url>
+    <loc>https://alibaba.github.io/Dragonfly/roadmap/</loc>
+  </url>
+  
+  <url>
+    <loc>https://alibaba.github.io/Dragonfly/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
